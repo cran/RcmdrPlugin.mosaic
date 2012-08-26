@@ -1,2 +1,3 @@
 #   type    menu/item      operation/parent  label                              command/menu                activation    install? 
 item    graphsMenu   command  "mosaic or assoc plot"        mosaicMenuItem    ""   "packageAvailable('ENmisc')"
+item    graphsMenu   command  "Benford law"        benfordDialog    ""   ""

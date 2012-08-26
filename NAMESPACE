@@ -1,2 +1,1 @@
 export(mosaicMenuItem, weHaveMosaicableTables)
-# importFrom(Rcmdr,RExcelSupported)

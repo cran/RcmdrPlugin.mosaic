@@ -1,0 +1,7 @@
+0e530ffe07d9a9deefaba84fffe8aaf5 *DESCRIPTION
+8a0b887c6112f118728fc8da83e11bc3 *NAMESPACE
+54f5d68cdc0f4bd5b2ffa8a123e4be16 *R/mosaicmenu.R
+968393b04262a73e4861df14bba91a39 *R/zzz.R
+77cda75763c2845bebbc36479bad9fca *inst/etc/menus.txt
+8e1eb79611a104df485cb6de75af9e00 *man/RcmdrPlugin.mosaic-package.Rd
+4087d17cbfdce3a6fcc0e830057af89f *man/mosaicMenuItem.Rd
